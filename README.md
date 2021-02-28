@@ -4,5 +4,5 @@ o	2D Endless shooting game with multiple weapon choices that I developed in Unit
 
 o	Written in C#.
 
-To play the executable game:
+To download the executable game:
 https://omrkocar.itch.io/endless-shooting
